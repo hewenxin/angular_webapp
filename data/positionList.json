@@ -38,10 +38,10 @@
     "date": "2016-05-01 11:05"
   }, {
     "id": "p1",
-    "imageUrl": "image/company-1.png",
+    "imageUrl": "image/company-3.png",
     "job": "WEB前端",
     "companyId": "c1",
-    "companyName": "慕课网",
+    "companyName": "千度",
     "cityId": "c1",
     "cityName": "北京",
     "scaleId": "s2",
@@ -60,7 +60,7 @@
     "imageUrl": "image/company-2.png",
     "job": "阿语SEM工程师",
     "companyId": "c2",
-    "companyName": "六一集团有限公司",
+    "companyName": "六一集团",
     "cityId": "c1",
     "cityName": "北京",
     "scaleId": "s3",
