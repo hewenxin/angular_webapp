@@ -38,10 +38,10 @@
     "date": "2016-05-01 11:05"
   }, {
     "id": "p1",
-    "imageUrl": "image/company-3.png",
+    "imageUrl": "image/company-2.png",
     "job": "WEB前端",
     "companyId": "c1",
-    "companyName": "千度",
+    "companyName": "六一集团",
     "cityId": "c1",
     "cityName": "北京",
     "scaleId": "s2",
@@ -68,7 +68,7 @@
     "industryId": "i1",
     "industryName": "互联网",
     "salaryId": "s3",
-    "salaryName": "5k~8k",
+    "salaryName": "5k-8k",
     "experience": "1-3年",
     "education": "本科",
     "benefit": "福利待遇好",
